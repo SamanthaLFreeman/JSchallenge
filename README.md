@@ -30,4 +30,4 @@
 // Thus iterate through the main array with probably a hard coded length and width
 
 **Update**
-//After starting to write out my test arrays, I realized square would probably be the most challenging, so I moved square to last
+//After I started to write out my test arrays. I realized square would probably be the most challenging, so I moved square to last
